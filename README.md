@@ -2,6 +2,7 @@
 RvBMo rewritten in Go. Various improvement have been made to the old version of RvBMo. 
 
 # Features 
+```
 Commands/
 ├── ping/
 │   └── Test responsiveness
@@ -16,3 +17,4 @@ Commands/
         │   └── Delete a team based using their role as an identifier
         └── all/
             └── Delete all non-protected teams (Default: Green Team, Red Team, RvBMo)
+```
